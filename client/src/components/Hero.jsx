@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <>
     <div
-        className="hero min-h-screen"
+        className="hero min-h-screen rounded-lg"
         style={{
                     backgroundImage: "url(https://plus.unsplash.com/premium_photo-1691735666207-be6e91326e3a?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)",
                 }}>
