@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <h1>Welcome to the home page</h1>
+      
     </>
   )
 }
