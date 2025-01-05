@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "backend for bloodnepal",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "hazekiller",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "epress": "^0.0.1-security",
+    "express": "^4.21.2"
+  }
 }
