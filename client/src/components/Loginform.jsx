@@ -1,4 +1,4 @@
-function Login() {
+function Loginform() {
     return (
         <>
             <h1> login form </h1>
@@ -7,4 +7,4 @@ function Login() {
 
 }
 
-export default Login;
+export default Loginform;
