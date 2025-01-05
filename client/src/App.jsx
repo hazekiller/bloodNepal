@@ -10,8 +10,11 @@ function App() {
   return (
     <>
       <Navbar />
+      <hr/>
       <Hero />
+      <hr/>
       <Carousel />
+      <hr/>
       <Footer />
     </>
   )
